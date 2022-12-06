@@ -18,15 +18,17 @@
 
 <br>
 
+#### 담당 서비스 bold 처리
+
 | :computer: Framework  | 🎉 서비스명 | 👓 서비스 개요 | 🧱 주요 기능 |🔑 서비스 포트 번호 |
 | :---: | :---: | :---: | :---: | :---: |
 | Django  | AuthService  | 인증  | 로그인, 회원가입, JWT  | 10000  |
-| Django  | LookupService  | 상품 조회  | 상품 페이지네이션 조회, Dashboard  | 10001  |
+| **Django**  | **LookupService**  | **상품 조회**  | **상품 페이지네이션 조회, Dashboard**  | **10001**  |
 | Django  | SellerService  | 상품 관리  | 상품 등록, 수정, 삭제  | 10002  |
-| Django  | SearchService  | 검색 히스토리  | 최근 검색어, 추천 검색어 | 10003  |
+| **Django**  | **SearchService**  | **검색 히스토리**  | **최근 검색어, 추천 검색어** | **10003**  |
 | Spring Boot  | PaymentService  | 결제, 구독 관리  | 구독 갱신, 자동 결제(Cron), 결제 정보 조회  | 10004  |
 | Node.js  | ChattingService  | 채팅  | 판매자-소비자 1대1 채팅, 채팅방 관리  | 10005  |
-| FastAPI  | MailService  | 메일  | 소비자 메일 전송  | 10006  |
+| **FastAPI**  | **MailService**  | **메일**  | **소비자 메일 전송**  | **10006**  |
 
 <br>
 
@@ -53,7 +55,7 @@
 
 <br>
 
-## ⚒ Trouble Shotting
+## ⚒ Trouble Shotting (SeonminKim1)
 - [Django Pagination 선택 및 Redis Caching 적용기](https://yubi5050.tistory.com/220)
 - [조회수 구현하기 1 - 동시성 이슈 해결하기(부제 : ORM 부터 Transaction Isolation Level 까지)](https://yubi5050.tistory.com/221)
 - [조회수 구현하기 2 - Cookie를 활용하여 중복 접근 해결하기](https://yubi5050.tistory.com/222)
