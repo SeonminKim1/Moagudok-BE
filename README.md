@@ -10,6 +10,7 @@
   - BE - 김선민 ([Github](https://github.com/SeonminKim1)), 고현우 ([Github](https://github.com/khw7876)), 박재현 ([Github](https://github.com/Aeius))     
   - FE - 이민기([Github](https://github.com/coddy083)), 백선진([GitHub](https://github.com/tjswls5000))
 - API 문서 : [링크](https://www.notion.so/c038c6b9accc4de4ac55323097d3bad5)
+- 기획 링크 : [링크](https://www.notion.so/migdracios/3340d3e1efc045a491fde0abc97083de)
 
 <br>   
 
